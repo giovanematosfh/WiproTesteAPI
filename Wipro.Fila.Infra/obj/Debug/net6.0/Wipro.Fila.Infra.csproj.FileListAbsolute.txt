@@ -1,0 +1,17 @@
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Infra.deps.json
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Infra.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Infra.pdb
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.csproj.AssemblyReference.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.AssemblyInfoInputs.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.AssemblyInfo.cs
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\refint\Wipro.Fila.Infra.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.pdb
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\ref\Wipro.Fila.Infra.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Domain.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Domain.pdb
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.csproj.CopyComplete
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\bin\Debug\net6.0\Wipro.Fila.Infra.runtimeconfig.json
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Infra\obj\Debug\net6.0\Wipro.Fila.Infra.genruntimeconfig.cache

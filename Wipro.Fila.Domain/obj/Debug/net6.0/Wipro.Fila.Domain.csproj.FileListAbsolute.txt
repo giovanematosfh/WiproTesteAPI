@@ -1,0 +1,12 @@
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\bin\Debug\net6.0\Wipro.Fila.Domain.deps.json
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\bin\Debug\net6.0\Wipro.Fila.Domain.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\bin\Debug\net6.0\Wipro.Fila.Domain.pdb
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.csproj.AssemblyReference.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.AssemblyInfoInputs.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.AssemblyInfo.cs
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\refint\Wipro.Fila.Domain.dll
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\Wipro.Fila.Domain.pdb
+C:\Users\Giovane\source\repos\Wipro.Fila.API\Wipro.Fila.Domain\obj\Debug\net6.0\ref\Wipro.Fila.Domain.dll
